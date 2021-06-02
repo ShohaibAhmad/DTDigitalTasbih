@@ -1,0 +1,2 @@
+rootProject.name = "DT Digital Tasbih"
+include ':app'
